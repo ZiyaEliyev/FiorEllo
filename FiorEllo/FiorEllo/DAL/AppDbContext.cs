@@ -1,5 +1,7 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using FiorEllo.Models;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Options;
+using System.Collections.Generic;
 
 namespace FiorEllo.DAL
 {
@@ -9,5 +11,8 @@ namespace FiorEllo.DAL
         {
             
         }
+        public DbSet<Category> Categories { get; set; }
+        public DbSet<Product> Products { get; set; }
+       
     }
 }
