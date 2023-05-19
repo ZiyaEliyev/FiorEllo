@@ -9,7 +9,10 @@ namespace FiorEllo.Models
         public string Name { get; set; }
         public string Image { get; set; }
         public int Price { get; set; }
-        Category Category { get; set; }
+        public bool IsDeactive { get; set; }
+        public Category Category { get; set; }
         public int CategoryId { get; set; }
+        [NotMapped]
+        public IFormFile Photo { get; set; }
     }
 }
