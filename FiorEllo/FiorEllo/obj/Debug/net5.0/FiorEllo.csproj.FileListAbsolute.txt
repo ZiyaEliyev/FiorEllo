@@ -159,3 +159,4 @@ C:\Users\USER\Desktop\FiorEllo\FiorEllo\FiorEllo\obj\Debug\net5.0\Razor\Areas\Ad
 C:\Users\USER\Desktop\FiorEllo\FiorEllo\FiorEllo\obj\Debug\net5.0\Razor\Areas\Admin\Views\Categories\Edit.cshtml.g.cs
 C:\Users\USER\Desktop\FiorEllo\FiorEllo\FiorEllo\obj\Debug\net5.0\Razor\Areas\Admin\Views\Categories\Index.cshtml.g.cs
 C:\Users\USER\Desktop\FiorEllo\FiorEllo\FiorEllo\obj\Debug\net5.0\Razor\Areas\Admin\Views\Products\Create.cshtml.g.cs
+C:\Users\USER\Desktop\FiorEllo\FiorEllo\FiorEllo\obj\Debug\net5.0\Razor\Areas\Admin\Views\Products\Update.cshtml.g.cs
