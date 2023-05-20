@@ -14,5 +14,6 @@ namespace FiorEllo.Models
         public int CategoryId { get; set; }
         [NotMapped]
         public IFormFile Photo { get; set; }
+        public ProductDetail ProductDetail { get; set; }
     }
 }
